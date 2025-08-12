@@ -1,0 +1,2 @@
+# Recommended (CUDA 12 + cuDNN 9)
+faster-whisper>=1.0.3
